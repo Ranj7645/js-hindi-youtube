@@ -1,0 +1,1 @@
+console.log("hello, welcome to java script courses")
