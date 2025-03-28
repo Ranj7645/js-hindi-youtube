@@ -19,6 +19,8 @@ console.log("shift elemnts",temp.shift())// remove first element and return that
 console.log("Unshift elents ",temp.unshift(1))// add first element
 //The unshift() method adds new items to the beginning of an array, and returns the new length.
 
+// includes() method
+console.log("includes method ",temp.includes(1))// it will return true or false
 // Note ***********************
 /* 1. --- > Unshift and push return new length of array ------ Means it is behaving in same manner
    2. --- > Shift and pop return removed element from array
