@@ -49,6 +49,10 @@ console.log(Object.entries(tinderUser))// it will return the array of key value 
 
 console.log(tinderUser.hasOwnProperty("id"))// it will return true if the object has the property
 
+//< ---------------------next phase ---------------------------------------->
+console.log("< ----------------------------------next phase------------------------------- >");
+
+
 
 
 
